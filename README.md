@@ -26,9 +26,12 @@ The **B-factor** describes the displacement of the atomic positions from an aver
 1. Download PDB files for 20 human CK2A structures.
 2. Perform MSA and extract the common 30 - 300 bps from all of the structures for further analysis.
 3. Extract CA coordinates
-4. **RMSD Analyis: ** 
-5. **B Factor analyis: ** 
-6. 
+4. RMSD Analyis: 
+   Reference structure (PDB ID: 3war), Sample structure (rest 19 structures, taken one at a time). To superimpose the backbone of the reference and sample, 
+   optimal movement of one structure over another is done with the help of a right body rotation+ translation algorithm implemented via Biopython, which gives
+   a minimized RMSD value.
+5. B-Factor Analysis:
+   CA B-factor values were extracted and a chart was prepared that contained the min and max B Factor values for each PDB Structure. 
 
 For detailed information please download steps.docx file from the main repository
 
