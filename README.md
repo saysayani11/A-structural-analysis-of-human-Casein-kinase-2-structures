@@ -2,6 +2,8 @@
 
 ## TASK:
 
+The task aims at analyzing various structures of human casein kinase 2 alpha subunit from the PDB, solved at different resolutions, differing among each other with respect to bound ligands/molecules. Analysis includes extraction of common regions from all the structures and studying their RMSD and B-Factor plots. 
+
 ## SUMMARY:
 
 3D representative structures of proteins give insights into mechanisms of disease and allow the design of diagnostic agents. A computational understanding of structures along with experimental data is advantageous. Several methods popularly used to determine the structure of a protein are X-Ray Crystallography, NMR Spectroscopy and Cryo-electron microscopy. The Protein Data Bank (PDB) is a repository of such solved structures of biomolecules using these experimental techniques. It allows for searching and exploring deposited structures under a unique PDB entry. The PDB file holds the following information:
