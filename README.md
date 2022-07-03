@@ -31,7 +31,7 @@ The **B-factor** describes the displacement of the atomic positions from an aver
    optimal movement of one structure over another is done with the help of a right body rotation+ translation algorithm implemented via Biopython, which gives
    a minimized RMSD value.
 5. B-Factor Analysis:
-   CA B-factor values were extracted and a chart was prepared that contained the min and max B Factor values for each PDB Structure. 
+   CA B-factor values are extracted and a chart was prepared that contains the min and max B Factor values for each PDB Structure. 
 
 For detailed information please download steps.docx file from the main repository
 
