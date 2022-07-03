@@ -16,6 +16,11 @@ The task aims at analyzing various structures of human casein kinase 2 alpha sub
 
 Often the most used information in a structure file is the coordinates of each ATOM record that describes the atom’s location in #D space, an associated occupancy and a temperature factor. 
 
+The **Root Mean Square Deviation (RMSD)** is a measure of the average distance between ATOMS, usually the CA-backbones. It can be used as a measure of similarity between structures. To calculate RMSD, we perform a geometric translation followed by a rotation of one structure over the target structure. Given a set of n points, the RMSD between two protein structure backbones were calculated using formula thereby obtaining a good, minimized RMSD. A stacked line-plot of the RMSD all protein structures showed some regions of variability across all the structures. Using visualization software UCSF Chimera, it was observed that most of these variabilities come from loop regions.
+
+The **B-factor** describes the displacement of the atomic positions from an average value (mean-square displacement). Residue-wise B-factor plots were generated for the 
+20 structures using Biopython. It was seen that regions with low local residue B-factors corresponded to the stable regions in the protein structure, like helices and sheets, whereas regions with high local B-factors corresponded to flexible regions in the protein structure, like loops. Comparing the B-factor plots of the 20 structures, it was found that at good resolutions, the per residue B factors were low, ie., uncertainty in atomic positions was low. This is reflective of the fact that at poor resolutions, ( low empirical electron density) higher temperature factors and hence disorder is observed.
+
 
 ## DATA AVAILABILITY:
 
