@@ -33,7 +33,7 @@ The **B-factor** describes the displacement of the atomic positions from an aver
 5. B-Factor Analysis:
    CA B-factor values are extracted and a chart was prepared that contains the min and max B Factor values for each PDB Structure. 
 
-For detailed information please download steps.docx file from the main repository
+For detailed information please download Detailed_information.docx file from the main repository
 
 
 ## DATA AVAILABILITY:
