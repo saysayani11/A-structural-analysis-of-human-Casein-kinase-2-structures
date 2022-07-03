@@ -1,0 +1,14 @@
+# COMPUTATIONAL INVESTIGATION OF PROTEIN STRUCTURES (HUMAN CK2A)
+
+## TASK:
+
+## SUMMARY:
+
+## DATA AVAILABILITY:
+
+## CODE AVAILABILITY:
+
+## QUERIES:
+
+Please drop an email at: say.Sayani11@gmail.com
+
